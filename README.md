@@ -1,4 +1,4 @@
-# An quick attempt with Spring framework
+# A quick attempt with Spring framework
 
 ## How to start
 
